@@ -1,0 +1,1 @@
+M280 P0 S90 ; P0 = Servo 0, S90 = Retract
